@@ -24,7 +24,7 @@ export function Hero() {
               className="font-serif text-lg leading-[1.2] font-medium text-balance text-foreground sm:text-6xl"
             >
               <h1>
-                Your Confidence Starts Here
+                Look As Vibrant As You Feel
               </h1>
             </RevealItem>
           </Reveal>
@@ -103,7 +103,7 @@ export function Hero() {
                 className="font-serif text-[2rem] leading-[1.15] font-medium text-balance text-foreground xl:text-[2.5rem]"
               >
                 <h1>
-                  Your Confidence Starts Here
+                  Look As Vibrant As You Feel
                 </h1>
               </RevealItem>
               <RevealItem className="mt-8 text-xl leading-relaxed text-muted-foreground">
